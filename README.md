@@ -250,7 +250,7 @@ Based on the findings, the following recommendations are proposed to reduce the 
 The following tools and technologies were utilised for this analysis:
 
 - **SQL**: Data collection, storage and manipulation.
-- **Python**: Data analysis and visualisation using libraries like `pandas`, `seaborn` and `matplotlib`.
+- **Python**: Data analysis and visualisation using libraries like `pandas`, `seaborn` , `matplotlib` and `scipy`.
 - **Excel**: For reporting.
 - **GitHub**: For documentation.
 - **PowerPoint**: For presenting the analysis findings.
