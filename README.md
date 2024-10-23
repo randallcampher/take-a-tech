@@ -1,22 +1,22 @@
-# Product Return Rate at Take-a-Tech
+<h1 align="center">Product Return Rate at Take-a-Tech</h1
 ![logo](https://github.com/user-attachments/assets/8afa1d57-4803-4042-a979-0d52cb893bbc)
 
-## Executive Summary
+## Executive Summary 
 
-This project investigates the relationship between product quality and product return rates at **Take-a-Tech**, a leading e-commerce retailer in electronics. The analysis explores whether product quality significantly influences return rates, providing actionable insights for reducing returns and improving customer satisfaction.
+<br>This project investigates the relationship between product quality and product return rates at **Take-a-Tech**, a leading e-commerce retailer in electronics. The analysis explores whether product quality significantly influences return rates, providing actionable insights for reducing returns and improving customer satisfaction.<br>
 
 Key findings include:
 - A Chi-square test revealed no statistically significant correlation between reported quality issues and return rates (p-value: 0.4727).
 - Factors like mismatched expectations, incorrect items received, and delays in delivery emerged as key reasons for returns, suggesting that product quality is not the primary driver.
-- Recommendations focus on improving product descriptions, implementing Net Promoter Score (NPS) surveys, and tracking customer satisfaction scores.
+- Recommendations focus on improving product descriptions, implementing Net Promoter Score (NPS) surveys and tracking customer satisfaction scores.
 
 ## Introduction
 
-**Take-a-Tech** faces challenges with a high rate of product returns. This analysis aims to assess whether product quality is a significant driver behind these returns, helping to identify potential areas for improvement in product offerings and customer satisfaction.
+**Take-a-Tech** faces challenges with product returns. This analysis aims to assess whether product quality is a significant driver behind these returns, helping to identify potential areas for improvement in product offerings and customer satisfaction.
 
 ## Project Objective
 
-The objective of this project is to analyze the relationship between product quality and return rates, determining if quality concerns significantly impact customer return behaviors. The analysis focuses on metrics such as product return rate and sales volume to provide insights.
+The objective of this project is to analyse the relationship between product quality and return rates, determining if quality concerns significantly impact customer return behaviours. The analysis focuses on metrics such as product return rate and sales volume to provide insights.
 
 ## Data and Methodology
 
