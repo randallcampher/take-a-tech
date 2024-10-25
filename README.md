@@ -52,15 +52,10 @@ A Chi-square test was used to evaluate whether there was a significant relations
  </p>
  
 - **No Clear Quality-Return Link**: Even product categories with lower quality complaints experienced returns, implying that quality concerns were not the primary driver behind returns.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bdbf52e8-fc5d-4842-af85-684465f15f95" alt="report" width="100%" height="300">
- </p>
-
 - **Customer Feedback Analysis**: Customer comments revealed that expectations mismatches, inadequate descriptions and delivery delays were critical areas contributing to return behavior.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ee65d805-faa1-49b2-b45a-307bd9c0001f" alt="report" width="100%" height="300">
+  <img src="https://github.com/user-attachments/assets/bdbf52e8-fc5d-4842-af85-684465f15f95" alt="report" width="100%" height="300">
  </p>
 
 ---
