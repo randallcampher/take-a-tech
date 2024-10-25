@@ -1,8 +1,5 @@
 <h1 align="center">Product Return Rate at Take-a-Tech</h1
 
-<br><p align="center">
-  <img src="https://github.com/randallcampher/take-a-tech/blob/main/image%204.png" alt="report">
- </p><br>
 
 
 
@@ -14,6 +11,10 @@ Key findings include:
 - A Chi-square test revealed no statistically significant correlation between reported quality issues and return rates (p-value: 0.4727).
 - Factors like mismatched expectations, incorrect items received and delays in delivery emerged as key reasons for returns, suggesting that product quality is not the primary driver.
 - Recommendations focus on improving product descriptions, implementing Net Promoter Score (NPS) surveys and tracking customer satisfaction scores.
+
+<p align="center">
+  <img src="https://github.com/randallcampher/take-a-tech/blob/main/image%204.png" alt="report" width="100%" height="300">
+ </p><br>
 
 ## Introduction
 
@@ -61,7 +62,7 @@ These insights indicate that addressing multiple aspects of the customer experie
 
 <br>
 <p align="center">
-  <img src="https://github.com/randallcampher/take-a-tech/blob/main/erd.png" alt="erd" width="600">
+  <img src="https://github.com/randallcampher/take-a-tech/blob/main/erd.png" alt="erd" width="100%" height="300">
 </p>
 <p align="center"><b>Figure 1: Entity Relationship Diagram (ERD)</b></p>
 <br>
@@ -214,20 +215,20 @@ chi2_test_result = {
 
 <br>
 <p align="center">
-  <img src="https://github.com/randallcampher/take-a-tech/blob/main/image%201.png" alt="Chart 1">
+  <img src="https://github.com/randallcampher/take-a-tech/blob/main/image%201.png" alt="Chart 1" width="100%" height="300">
 </p>
 <p align="center"><b>Chart 1: Return Reason by Product Category</b></p>
 <br>
 <br>
 <p align="center">
-  <img src="https://github.com/randallcampher/take-a-tech/blob/main/image%202.png" alt="Chart 2">
+  <img src="https://github.com/randallcampher/take-a-tech/blob/main/image%202.png" alt="Chart 2" width="100%" height="300">
 </p>
 <p align="center"><b>Chart 2: Quality Issues by Product Category</b></p>
 <br>
 
 <br>
 <p align="center">
-  <img src="https://github.com/randallcampher/take-a-tech/blob/main/image%203.png" alt="Chart 3">
+  <img src="https://github.com/randallcampher/take-a-tech/blob/main/image%203.png" alt="Chart 3" width="100%" height="300">
 </p>
 <p align="center"><b>Chart 3: Return Reasons</b></p>
 <br>
