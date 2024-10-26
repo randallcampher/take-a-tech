@@ -37,14 +37,14 @@ The analysis aimed to identify whether product quality was a significant driver 
 
 ## Insights Deep Dive  
 
-### Data Exploration and Statistical Testing  
+### Statistical Testing  
 A Chi-square test was used to evaluate whether there was a significant relationship between product quality issues and return rates. The p-value of 0.4727 indicated that there was no statistically significant correlation. Thus, the hypothesis that product quality alone drives return rates could not be supported.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2271a4df-8b20-4592-b70d-09f559202656" alt="report" width="100%" height="300">
  </p>
 
-### Key Insights:  
+### Key Insights  
 - **Common Return Reasons**: “Wrong item received” and “Changed my mind” were the most frequent reasons for returns, highlighting potential gaps between product listings and customer expectations.
 
 <p align="center">
